@@ -1,4 +1,3 @@
 Hi, colleagues!
-My name is Vitaliy.
-It's my second commit.
+My full name is Vitaliy Skoblin.
 Thanks for reading my file.

@@ -1,3 +1,4 @@
 Hi!
 My full name is Vitaliy Skoblin.
 You read my file test.txt in 'master' branch.
+New line in 'develop' branch.
